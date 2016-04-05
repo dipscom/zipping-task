@@ -1,0 +1,17 @@
+{
+  "name": "sonamblst",
+  "version": "1.0.0",
+  "description": "Quick Zipping task runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Tavares",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-foreach": "^0.1.0",
+    "gulp-zip": "^3.2.0"
+  }
+}
